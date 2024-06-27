@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "CommonJS",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "noImplicitAny": false,
+        "forceConsistentCasingInFileNames": true,
+        "declaration": false,
+        "skipLibCheck": true,
+        "lib": ["ESNext"],
+        "outDir": "dist/",
+        "strict": false,
+        "allowJs": true,
+        "checkJs": false,
+        "strictNullChecks": false
+    },
+    "include": ["src/**/*.ts"]
+}

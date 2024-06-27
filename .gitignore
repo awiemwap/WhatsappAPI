@@ -1,0 +1,8 @@
+node_modules/
+dist/
+debug/
+prisma/migrations/
+.env
+*.tgz
+.vscode
+.DS_Store
